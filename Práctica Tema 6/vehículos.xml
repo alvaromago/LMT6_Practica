@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<articulo revista="+QCoches">
+    <titulo>Los coches más vendidos en España en 2020</titulo>
+    <coche precio="14000" >
+        <marca>Toyota</marca>
+        <modelo>Corolla</modelo>
+        <potencia>100 cv</potencia>
+        <deposito>50 litros</deposito>
+        <velocidad>198</velocidad>
+        <prestaciones>
+            <transmision>
+                <tipo>manual 5</tipo>
+            </transmision>
+            <peso>1600</peso>
+            <cilindrada>1400</cilindrada>
+            <ancho>1760</ancho>
+            <alto>1465</alto>
+            <largo>4540</largo>
+            <puertas>tres</puertas>
+            <baul>470</baul>
+            <combustible>Gasolina</combustible>
+        </prestaciones>
+    </coche>
+    <coche precio="34000" >
+        <marca>Audi</marca>
+        <modelo>A3</modelo>
+        <potencia>140 cv</potencia>
+        <deposito>60 litros</deposito>
+        <velocidad>201</velocidad>
+        <prestaciones>
+            <transmision>
+                <tipo>manual 6</tipo>
+            </transmision>
+            <combustible>Diesel</combustible>
+            <cilindrada>1968</cilindrada>
+            <baul>570</baul>
+            <peso>1600</peso>
+            <ancho>1765</ancho>
+            <alto>1421</alto>
+            <largo>4238</largo>
+            <puertas>tres</puertas>
+        </prestaciones>
+    </coche>
+    <coche precio="34000" >
+        <marca>BMW</marca>
+        <modelo>325d Berlina</modelo>
+        <potencia>218 cv</potencia>
+        <deposito>57 litros</deposito>	
+        <velocidad>245</velocidad>
+        <prestaciones>
+            <combustible>Diesel</combustible>
+            <transmision>
+                <tipo>manual 6</tipo>
+            </transmision>
+            <cilindrada>1995</cilindrada>	
+            <peso>1550</peso>
+            <ancho>1811</ancho>
+            <alto>1429</alto>
+            <largo>4624</largo>	
+            <puertas>cinco</puertas>
+            <baul>480</baul>
+        </prestaciones>
+    </coche>
+</articulo>
